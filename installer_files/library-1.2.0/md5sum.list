@@ -1,0 +1,8 @@
+d6d32a6e126067a134aa7f1e53a748e4  ./env.cfg
+0d9257126b508ff54eacbbdaa3efbd1c  ./microhttpd/lib/libmicrohttpd.la
+3af3727df3e4e4553c3fc6d9ddd240bb  ./microhttpd/lib/libmicrohttpd.so.12.36.0
+e61561c1e9875bb259a7761c1769886c  ./ffstartup-arm
+7bcc7f0d7c9296c0086c9fafc268799d  ./run.sh
+8bf83f63173414f80dfca8ccbd4ba537  ./code2000.ttf
+8ca8299de2e6b69ed398c9ef96276076  ./create-rsa.sh
+b64f153def78950964d170525c88e35f  ./ffstartup.cfg
